@@ -2,10 +2,9 @@
 // todo 修改为自己的信息
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `M zone`,
+    author: `Yu Teng`,
+    description: `M zone.`,
     social: {
       twitter: `kylemathews`,
     },
@@ -65,10 +64,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `M zone`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `skyblue`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/profile-pic.png`,
