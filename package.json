@@ -47,6 +47,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
+    "url": "https://github.com/mrslimslim/my_gatsby_blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
