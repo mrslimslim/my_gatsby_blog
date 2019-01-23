@@ -5,8 +5,9 @@ module.exports = {
     title: `M zone`,
     author: `Yu Teng`,
     description: `M zone.`,
+    siteUrl: `www.mrslimslim.top`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `teng yu`,
     },
   },
   plugins: [
